@@ -1,0 +1,10 @@
+sklearn
+pandas
+pickle-mixin
+pyarrow
+fastparquet
+grep
+pipfile
+docker
+numpy
+joblib
